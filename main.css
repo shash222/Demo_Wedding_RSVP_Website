@@ -1,0 +1,128 @@
+@font-face{
+    font-family:vivaldi;
+    src:url('fonts/vivaldi/VIVALDII.TTF');
+}
+
+@font-face{
+    font-family:centuryGothic;
+    src:url('fonts/century-gothic/CenturyGothic.ttf');
+}
+
+@font-face{
+    font-family:gabriola;
+    src:url('fonts/gabriola/Gabriola.ttf');
+}
+
+a:link{
+    text-decoration:none;
+    color:white;
+}
+
+a:visited{
+    color:inherit; 
+}
+
+body{
+    text-align:center;
+    overflow:scroll;
+    font-family:centuryGothic;
+}
+
+img{
+    width:75%;
+    max-width:300px;
+    display:block;
+    margin:auto;
+}
+
+table{
+    margin:auto;
+    text-align:center;
+    width:100%;
+}
+
+td{
+    padding:5px;
+}
+
+th{
+    padding:5px;
+}
+
+.invitedEvents{
+    width:100%;
+    height:155px;
+}
+
+#container{
+    width:100%;
+    max-width:600px;
+    min-width:200px;
+    margin:auto;
+    padding-bottom:50px;
+}
+
+#topbar{
+	width:100%;
+	border-bottom:1px solid red;
+}
+
+#title{
+	color:rgb(192,0,0);
+	font-family:vivaldi;
+	font-weight:none;
+    margin:0;
+}
+
+#invited{
+    margin-bottom:0;
+}
+
+#selected{
+    text-decoration:underline;
+}
+
+#bismillah{
+    margin-top:20px;
+    margin-bottom:20px;
+    width:80%;
+    max-width:400px;
+}
+
+.navlinks{
+    width:24%;
+}
+
+@media screen and (orientation:landscape){
+    .navlinks{
+        font-size:2vw;
+    }
+}
+
+@media screen and (orientation:portrait){
+    .navlinks{
+        font-size:2vh;
+    }
+}
+
+form{
+    width:100%;
+    position:relative;
+    margin:auto;
+}
+
+ul{
+    width:100%;
+	list-style-type:none;
+	padding:0;
+	margin:0;
+	background-color:RGB(192,0,0);
+}
+
+li{
+    color:white;
+    font-size:25px;
+    display:inline-block;
+    width:33%;
+    margin:0;
+}

@@ -1,0 +1,30 @@
+[25-Oct-2018 02:57:09 America/Chicago] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:09 America/Chicago] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:09 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:57:09 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 02:57:40 America/Chicago] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:40 America/Chicago] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:40 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:57:40 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 02:57:41 America/Chicago] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:41 America/Chicago] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:57:41 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:57:41 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 02:58:18 America/Chicago] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:58:18 America/Chicago] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:58:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:58:18 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 02:58:43 America/Chicago] PHP Warning:  include_once(database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:58:43 America/Chicago] PHP Warning:  include_once(): Failed opening 'database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:58:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:59:11 America/Chicago] PHP Warning:  include_once(..\database.php): failed to open stream: No such file or directory in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:59:11 America/Chicago] PHP Warning:  include_once(): Failed opening '..\database.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home3/shash222/anas-anoshia.com/View/DataView.php on line 2
+[25-Oct-2018 02:59:11 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 3
+[25-Oct-2018 02:59:44 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 03:01:02 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 03:04:05 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 03:05:01 America/Chicago] PHP Fatal error:  Call to undefined function mysqli_fetch_all() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 4
+[25-Oct-2018 03:10:39 America/Chicago] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 21
+[25-Oct-2018 03:13:32 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home3/shash222/anas-anoshia.com/View/DataView.php on line 21
+[25-Oct-2018 03:13:43 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 24
+[25-Oct-2018 03:15:18 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home3/shash222/anas-anoshia.com/View/DataView.php on line 24
